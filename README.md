@@ -3,8 +3,11 @@
 **Compact 2D cutting layouts from solid sheet-material parts in Rhino 9.**
 
 UnwrapCNC identifies parts by material thickness, extracts planar face boundaries, and packs them onto rectangular sheets. Parallel heuristic search explores different part orders and rotations, with optional CUDA acceleration for collision and clearance checks.
+<img width="1434" height="736" alt="image" src="https://github.com/user-attachments/assets/273cc699-48bf-4626-922b-a61ab7de4d59" />
 
 The interface supports **English and Russian**, with a saved language preference.
+<img width="494" height="422" alt="image" src="https://github.com/user-attachments/assets/1d33ebdf-6733-40e2-b7b3-2c80fd5db95c" />
+
 
 ## Features
 
